@@ -1,0 +1,1 @@
+path = "C:\\Users\\mohit\\new-workspace\\Amazon_Task\\data\\studentdetails.csv"
