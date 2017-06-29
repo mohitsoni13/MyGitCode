@@ -1,0 +1,162 @@
+2016-09-28 19:31:45 - DEBUG - commonhelper - writeToLogFile - at line:  127  - CommonHelp: leaving writeToLogFile
+2016-09-28 19:31:45 - DEBUG - TC_02_EndToEndScenario - init - at line:  44  - TC_02_EndToEndScenario: Inside init()
+2016-09-28 19:31:45 - DEBUG - baseuihelper - __init__ - at line:  18  - BaseUIHelper: Inside init.
+2016-09-28 19:31:45 - DEBUG - baseuihelper - __init__ - at line:  24  - BaseUIHelper: Leaving init.
+2016-09-28 19:31:45 - DEBUG - TC_02_EndToEndScenario - init - at line:  50  - TC_02_EndToEndScenario: Leaving init()
+2016-09-28 19:31:45 - DEBUG - TC_02_EndToEndScenario - execute - at line:  55  - TC_02_EndToEndScenario: Inside execute()
+2016-09-28 19:31:45 - DEBUG - baseuihelper - clickOnRandomProperty - at line:  186  - BaseUIHelper: Inside clickOnRandomProperty.
+2016-09-28 19:31:45 - DEBUG - baseuihelper - selectBedroomAndBathrooms - at line:  153  - BaseUIHelper: Inside selectBedroomAndBathrooms.
+2016-09-28 19:31:45 - DEBUG - baseuihelper - selectPriceRang - at line:  124  - BaseUIHelper: Inside selectPriceRang.
+2016-09-28 19:31:45 - DEBUG - baseuihelper - clickOnAdvanceSearch - at line:  103  - BaseUIHelper: Inside clickOnAdvanceSearch.
+2016-09-28 19:31:45 - DEBUG - baseuihelper - clickOnCityOrCounty - at line:  79  - BaseUIHelper: Inside clickOnCityOrCounty.
+2016-09-28 19:31:45 - DEBUG - baseuihelper - clickOnSaleTab - at line:  59  - BaseUIHelper: Inside clickOnSaleTab.
+2016-09-28 19:31:45 - DEBUG - baseuihelper - openURL - at line:  32  - BaseUIHelper: Inside openURL.
+2016-09-28 19:31:48 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"binary": "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe", "javascriptEnabled": true, "firefox_profile": "UEsDBBQAAAAIAPabPElzE2597wMAAOsOAAAHAAAAdXNlci5qc51XTW/bOBC9F9j/UOS0BWoiadpL95SmKbBA0SxqBDkSFDmyGFMklx9W/O93SFmI7ZiiszdR4pAzb968GUUPjloH7Z8XggXmwBoXpF4Ra5TkW5JeLmPTS++l0f/klzecgw0gLj6+b5ny8OGvP97FvXNMT3r2THnnTA/UcydtoC5qGmQPaHR9eWQxQCOc3OAaNGsUUM0CLilsQAePFsHF41uCMWotA9EQBuPWPdNsBY4I6dMJp2088Ohk2JKBOU03EgaMlPbyGQTxnRmo0RwKUT2xDRtDIcYGxMJnk7/1LT6a0o3wHED7vDtaxBLIGGEJu0MPMXpwycUB2Lpg0Tgz4IrcPfy8IdeEveTmhDvM2vP8mNANoKCH4LbEwRPw4sGTFx6Y493ujorHnrWQnxPdeqYw5Jpbu2STLgSbOLbgRmt0KwG8sOAWuBVphNZXxxw7RFYB2yRg81uoJv+wNDpgKnTjmqQbJQfSSufD76gLJ7xQnHkfsSyiRhg9AkqxtGL2eQ5XvD9ESyySHHe+JbhzeGPQMSdFgcTT1sAan2+41/cWSpG+UCFLhg8GAXaQg25RESh3zHcF49f1ok2Q7fbBZ4RmS4Z7u6NPxbMkUFj5wgxExN7ucW6+gnkHfH1reovq1EiV7tRy1QW1rUGxy16HerjL4AVrTAxfG8X0+qJgpjB+h7pZKYpJb88Q2mNHUFgUTyIdnao4JWCTRMETdMk4PorePHQzclsBzLStkrqUx7koCBNCJj1gtYAOtMR20nfbRfpssUAXCvQqJJJ++vKl3Ahmo7fIdRt8qhraG8FULY1ljVFmtUovd6jfzZ5zUl7nr362EuuUKUW8XGHvRdXwWLL/Runq13SAdrk0vkPLogrfxi9v63CzWvW6G721e43JyAafiqowaGWYINMokZrCYwd6meiGPs6U327qoAZlkYqYI0pnVbBDjq9Jtkkq40bOlvzTMCCVEt//P5GmZnXmENJKBfiE+uUkD9Q4iTSk42RYCc0BEwlUCHlq+JG64w16xM+YlBpl+FpJH86cBsaELXaisUAmh+jfDk60KWXzxbXn5VSUsyKwN3CxGEwJcKw6oxGzHvoG3DIvSxHMjIjVOeY18ZBVYys8wby9YJPz30eSLzka+lMj1iFTSb2nzGpBfSjDwhtTR1G66JPHKkrDrxyxO5GNF50bOonikChWkbm9uS1P1ntzGwdX+jk5MTHdKuOLDe0AB59+twJFV+c08Yy/tXkqT+WCFMX8KoVgN1sqRg2vNPRJGI4V4bo4C6rWRzuW2UiL0tCDr8S9fsyc9FeXRCLe5uH3zzNnJlRiq9gWxN3V5fIXzo6ZPp/T7v8AUEsBAhQAFAAAAAgA9ps8SXMTbn3vAwAA6w4AAAcAAAAAAAAAAAAAALaBAAAAAHVzZXIuanNQSwUGAAAAAAEAAQA1AAAAFAQAAAAA", "args": [], "platform": "ANY", "browserName": "firefox", "version": "", "marionette": false}}
+2016-09-28 19:31:48 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:31:48 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/url {"url": "http://www.daft.ie/", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36"}
+2016-09-28 19:31:59 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:31:59 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/window/current/maximize {"windowHandle": "current", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36"}
+2016-09-28 19:31:59 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:31:59 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/source {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36"}
+2016-09-28 19:31:59 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:31:59 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/title {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36"}
+2016-09-28 19:31:59 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:31:59 - INFO - baseuihelper - openURL - at line:  43  - Successfully open the Daft.ie site and matched the title also
+2016-09-28 19:31:59 - DEBUG - baseuihelper - openURL - at line:  47  - BaseUIHelper: Leaving openURL.
+2016-09-28 19:32:14 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[1]/div/div/header/div/div[2]/div/nav/div/ul[1]/li[2]/a"}
+2016-09-28 19:32:14 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:14 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{afd3e34a-edb6-4fc0-a176-75013dc65cd9}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{afd3e34a-edb6-4fc0-a176-75013dc65cd9}"}
+2016-09-28 19:32:14 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:14 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{afd3e34a-edb6-4fc0-a176-75013dc65cd9}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{afd3e34a-edb6-4fc0-a176-75013dc65cd9}"}
+2016-09-28 19:32:14 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:14 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{afd3e34a-edb6-4fc0-a176-75013dc65cd9}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{afd3e34a-edb6-4fc0-a176-75013dc65cd9}"}
+2016-09-28 19:32:24 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:24 - DEBUG - baseuihelper - clickOnSaleTab - at line:  67  - BaseUIHelper: Leaving clickOnSaleTab.
+2016-09-28 19:32:24 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[3]/div[1]/div/form/span/div[1]/span[2]/div/dl/dt"}
+2016-09-28 19:32:24 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:24 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{88769f1b-355a-4902-b04b-10054e814076}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{88769f1b-355a-4902-b04b-10054e814076}"}
+2016-09-28 19:32:24 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:24 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{88769f1b-355a-4902-b04b-10054e814076}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{88769f1b-355a-4902-b04b-10054e814076}"}
+2016-09-28 19:32:24 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:24 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{88769f1b-355a-4902-b04b-10054e814076}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{88769f1b-355a-4902-b04b-10054e814076}"}
+2016-09-28 19:32:24 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:39 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[3]/div[1]/div/form/span/div[1]/span[2]/div/dl/dd/ul/li[2]"}
+2016-09-28 19:32:39 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:39 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{14418dee-2387-4105-96f6-15cf6afdfb8a}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{14418dee-2387-4105-96f6-15cf6afdfb8a}"}
+2016-09-28 19:32:39 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:39 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{14418dee-2387-4105-96f6-15cf6afdfb8a}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{14418dee-2387-4105-96f6-15cf6afdfb8a}"}
+2016-09-28 19:32:39 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:39 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{14418dee-2387-4105-96f6-15cf6afdfb8a}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{14418dee-2387-4105-96f6-15cf6afdfb8a}"}
+2016-09-28 19:32:39 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:39 - DEBUG - baseuihelper - clickOnCityOrCounty - at line:  91  - BaseUIHelper: Leaving clickOnCityOrCounty.
+2016-09-28 19:32:44 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[3]/div[1]/ul/li[2]/a"}
+2016-09-28 19:32:44 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:44 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{84324463-6f18-42e5-8047-d910c62836a7}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{84324463-6f18-42e5-8047-d910c62836a7}"}
+2016-09-28 19:32:44 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:44 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{84324463-6f18-42e5-8047-d910c62836a7}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{84324463-6f18-42e5-8047-d910c62836a7}"}
+2016-09-28 19:32:44 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:44 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{84324463-6f18-42e5-8047-d910c62836a7}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{84324463-6f18-42e5-8047-d910c62836a7}"}
+2016-09-28 19:32:44 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:44 - DEBUG - baseuihelper - clickOnAdvanceSearch - at line:  112  - BaseUIHelper: Leaving clickOnAdvanceSearch.
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[3]/div[1]/div/form/span/div[6]/span[2]/div[1]/span"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{b5ab713c-af6d-4fbf-969f-d73975d164c2}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{b5ab713c-af6d-4fbf-969f-d73975d164c2}"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{b5ab713c-af6d-4fbf-969f-d73975d164c2}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{b5ab713c-af6d-4fbf-969f-d73975d164c2}"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{b5ab713c-af6d-4fbf-969f-d73975d164c2}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{b5ab713c-af6d-4fbf-969f-d73975d164c2}"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[3]/div[1]/div/form/span/div[6]/span[2]/div[1]/dl/dd/ul/li[3]"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{2491c678-ffec-40a0-9bfe-d36c11ee41e4}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{2491c678-ffec-40a0-9bfe-d36c11ee41e4}"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{2491c678-ffec-40a0-9bfe-d36c11ee41e4}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{2491c678-ffec-40a0-9bfe-d36c11ee41e4}"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{2491c678-ffec-40a0-9bfe-d36c11ee41e4}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{2491c678-ffec-40a0-9bfe-d36c11ee41e4}"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[3]/div[1]/div/form/span/div[6]/span[2]/div[3]/span"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{683ce1f0-273f-462c-8629-667a0f4a4572}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{683ce1f0-273f-462c-8629-667a0f4a4572}"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{683ce1f0-273f-462c-8629-667a0f4a4572}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{683ce1f0-273f-462c-8629-667a0f4a4572}"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{683ce1f0-273f-462c-8629-667a0f4a4572}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{683ce1f0-273f-462c-8629-667a0f4a4572}"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[3]/div[1]/div/form/span/div[6]/span[2]/div[3]/dl/dd/ul/li[5]"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{5a6668f1-204f-451a-9ec2-d56c8ec21d2a}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{5a6668f1-204f-451a-9ec2-d56c8ec21d2a}"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{5a6668f1-204f-451a-9ec2-d56c8ec21d2a}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{5a6668f1-204f-451a-9ec2-d56c8ec21d2a}"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{5a6668f1-204f-451a-9ec2-d56c8ec21d2a}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{5a6668f1-204f-451a-9ec2-d56c8ec21d2a}"}
+2016-09-28 19:32:49 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:49 - DEBUG - baseuihelper - selectPriceRang - at line:  141  - BaseUIHelper: Leaving selectPriceRang.
+2016-09-28 19:32:54 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[3]/div[1]/div/form/span/div[7]/span[2]/div[1]/span"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{a5b3f182-1dba-4f26-b297-a0c0cfff532e}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{a5b3f182-1dba-4f26-b297-a0c0cfff532e}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{a5b3f182-1dba-4f26-b297-a0c0cfff532e}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{a5b3f182-1dba-4f26-b297-a0c0cfff532e}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{a5b3f182-1dba-4f26-b297-a0c0cfff532e}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{a5b3f182-1dba-4f26-b297-a0c0cfff532e}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[3]/div[1]/div/form/span/div[7]/span[2]/div[1]/dl/dd/ul/li[2]"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{9192f524-6f12-410e-ac95-669ad649f60a}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{9192f524-6f12-410e-ac95-669ad649f60a}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{9192f524-6f12-410e-ac95-669ad649f60a}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{9192f524-6f12-410e-ac95-669ad649f60a}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{9192f524-6f12-410e-ac95-669ad649f60a}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{9192f524-6f12-410e-ac95-669ad649f60a}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[3]/div[1]/div/form/span/div[8]/span[2]/div[1]/span"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{b4ca85f9-aca9-4a12-a4d8-652f41d38c1a}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{b4ca85f9-aca9-4a12-a4d8-652f41d38c1a}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{b4ca85f9-aca9-4a12-a4d8-652f41d38c1a}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{b4ca85f9-aca9-4a12-a4d8-652f41d38c1a}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{b4ca85f9-aca9-4a12-a4d8-652f41d38c1a}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{b4ca85f9-aca9-4a12-a4d8-652f41d38c1a}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[3]/div[1]/div/form/span/div[8]/span[2]/div[1]/dl/dd/ul/li[2]"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{d61c1149-46c5-4dde-bece-c82f841caa22}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{d61c1149-46c5-4dde-bece-c82f841caa22}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{d61c1149-46c5-4dde-bece-c82f841caa22}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{d61c1149-46c5-4dde-bece-c82f841caa22}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{d61c1149-46c5-4dde-bece-c82f841caa22}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{d61c1149-46c5-4dde-bece-c82f841caa22}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/div[3]/div[1]/div/form/span/div[18]/span[2]/input"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{02bfb4fb-2482-4ac2-b2dc-af6ccd60aba4}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{02bfb4fb-2482-4ac2-b2dc-af6ccd60aba4}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{02bfb4fb-2482-4ac2-b2dc-af6ccd60aba4}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{02bfb4fb-2482-4ac2-b2dc-af6ccd60aba4}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{02bfb4fb-2482-4ac2-b2dc-af6ccd60aba4}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{02bfb4fb-2482-4ac2-b2dc-af6ccd60aba4}"}
+2016-09-28 19:32:55 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:33:25 - DEBUG - baseuihelper - selectBedroomAndBathrooms - at line:  174  - BaseUIHelper: Leaving selectBedroomAndBathrooms.
+2016-09-28 19:33:30 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element {"using": "xpath", "sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "value": "/html/body/table/tbody/tr/td[1]/div[3]/div[1]/h2/a"}
+2016-09-28 19:33:30 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:33:30 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{4d30f103-ac3c-4644-9ad8-9cf73a6fbbd6}/displayed {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{4d30f103-ac3c-4644-9ad8-9cf73a6fbbd6}"}
+2016-09-28 19:33:30 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:33:30 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{4d30f103-ac3c-4644-9ad8-9cf73a6fbbd6}/enabled {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{4d30f103-ac3c-4644-9ad8-9cf73a6fbbd6}"}
+2016-09-28 19:33:30 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:33:30 - DEBUG - remote_connection - _request - at line:  415  - POST http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/element/{4d30f103-ac3c-4644-9ad8-9cf73a6fbbd6}/click {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36", "id": "{4d30f103-ac3c-4644-9ad8-9cf73a6fbbd6}"}
+2016-09-28 19:33:37 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:34:07 - DEBUG - baseuihelper - clickOnRandomProperty - at line:  195  - BaseUIHelper: Leaving clickOnRandomProperty.
+2016-09-28 19:34:07 - INFO - TC_02_EndToEndScenario - execute - at line:  58  - Successfully got the random property
+2016-09-28 19:34:07 - DEBUG - TC_02_EndToEndScenario - execute - at line:  63  - TC_02_EndToEndScenario: Leaving execute()
+2016-09-28 19:34:07 - DEBUG - TC_02_EndToEndScenario - verify - at line:  68  - TC_02_EndToEndScenario: Inside verify()
+2016-09-28 19:34:07 - DEBUG - remote_connection - _request - at line:  415  - GET http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36/source {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36"}
+2016-09-28 19:34:07 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:34:07 - INFO - TC_02_EndToEndScenario - verify - at line:  71  - Successfully got the random property
+2016-09-28 19:34:07 - DEBUG - TC_02_EndToEndScenario - verify - at line:  76  - TC_02_EndToEndScenario: Leaving verify()
+2016-09-28 19:34:07 - DEBUG - TC_02_EndToEndScenario - cleanup - at line:  81  - TC_02_EndToEndScenario: Inside cleanup()
+2016-09-28 19:34:07 - DEBUG - baseuihelper - closeDriver - at line:  227  - BaseUIHelper: Inside closeDriver.
+2016-09-28 19:34:07 - DEBUG - remote_connection - _request - at line:  415  - DELETE http://127.0.0.1:56067/hub/session/7723887e-8bd5-4a52-9471-bbdb1a352e36 {"sessionId": "7723887e-8bd5-4a52-9471-bbdb1a352e36"}
+2016-09-28 19:34:07 - DEBUG - remote_connection - _request - at line:  510  - Finished Request
+2016-09-28 19:34:08 - DEBUG - baseuihelper - closeDriver - at line:  229  - BaseUIHelper: Leaving closeDriver.
+2016-09-28 19:34:08 - INFO - TC_02_EndToEndScenario - cleanup - at line:  86  - Successfully closed the Driver
+2016-09-28 19:34:08 - DEBUG - TC_02_EndToEndScenario - cleanup - at line:  93  - TC_02_EndToEndScenario: Leaving cleanup()
+2016-09-28 19:34:08 - DEBUG - commonhelper - saveResultsOfTestcase - at line:  28  - CommonHelp: Inside saveResultsOfTestcase
+2016-09-28 19:34:08 - DEBUG - commonhelper - saveResultsOfTestcase - at line:  33  - commonhelper: Inside save_results_of_testcase() for testcase TC_02_EndToEndScenario 
+2016-09-28 19:34:08 - INFO - commonhelper - saveResultsOfTestcase - at line:  63  - commonhelper: Saving Results of Test Case TC_02_EndToEndScenario in the File C:\Users\msoni1\workspace\Daft_Assessment\log\summaryresult-28-09-2016.log
+2016-09-28 19:34:08 - DEBUG - commonhelper - saveResultsOfTestcase - at line:  77  - commonhelper: Leaving save_results_of_testcase()
+2016-09-28 19:34:08 - DEBUG - commonhelper - saveResultsOfTestcase - at line:  78  - CommonHelp: Exit saveResultsOfTestcase

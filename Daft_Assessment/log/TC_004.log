@@ -1,0 +1,26 @@
+2016-09-28 19:31:12 - DEBUG - commonhelper - writeToLogFile - at line:  127  - CommonHelp: leaving writeToLogFile
+2016-09-28 19:31:12 - DEBUG - TC_004 - init - at line:  41  - TC_004: Inside init()
+2016-09-28 19:31:12 - DEBUG - commonhelper - __init__ - at line:  16  - CommonHelp: Inside __init__
+2016-09-28 19:31:12 - DEBUG - commonhelper - __init__ - at line:  17  - CommonHelp: Exit __init__
+2016-09-28 19:31:12 - DEBUG - apihelper - __init__ - at line:  11  - APIHelper: Inside init.
+2016-09-28 19:31:12 - DEBUG - apihelper - __init__ - at line:  20  - APIHelper: Leaving init.
+2016-09-28 19:31:12 - DEBUG - TC_004 - init - at line:  50  - TC_004: Leaving init()
+2016-09-28 19:31:12 - DEBUG - TC_004 - execute - at line:  55  - TC_004: Inside execute()
+2016-09-28 19:31:12 - DEBUG - apihelper - getResponseMsg - at line:  30  - APIHelper: Inside getResponseMsg.
+2016-09-28 19:31:12 - INFO - connectionpool - _new_conn - at line:  735  - Starting new HTTPS connection (1): www.googleapis.com
+2016-09-28 19:31:12 - DEBUG - connectionpool - _make_request - at line:  383  - "POST /geolocation/v1/geolocate?key=%20AIzaSyAKC3sgc1iixalipAnijFc6pL2CflpTg24 HTTP/1.1" 200 None
+2016-09-28 19:31:12 - DEBUG - apihelper - getResponseMsg - at line:  42  - APIHelper: Leaving getResponseMsg.
+2016-09-28 19:31:12 - DEBUG - TC_004 - execute - at line:  59  - Successfully get the response message
+2016-09-28 19:31:12 - DEBUG - TC_004 - execute - at line:  70  - TC_004: Leaving execute()
+2016-09-28 19:31:12 - DEBUG - TC_004 - verify - at line:  75  - TC_004: Inside verify()
+2016-09-28 19:31:12 - DEBUG - apihelper - validateResponse - at line:  60  - APIHelper: Inside validateResponse.
+2016-09-28 19:31:12 - DEBUG - TC_004 - verify - at line:  83  - Failed to matched the error response message
+2016-09-28 19:31:12 - DEBUG - TC_004 - verify - at line:  90  - TC_004: Leaving verify()
+2016-09-28 19:31:12 - DEBUG - TC_004 - cleanup - at line:  94  - TC_004: Inside cleanup()
+2016-09-28 19:31:12 - DEBUG - TC_004 - cleanup - at line:  98  - TC_004: Leaving cleanup()
+2016-09-28 19:31:12 - INFO - TC_004 - <module> - at line:  129  - Result of testcase Remove the MCA Address (required parameter) from JSON: Failed
+2016-09-28 19:31:12 - DEBUG - commonhelper - saveResultsOfTestcase - at line:  28  - CommonHelp: Inside saveResultsOfTestcase
+2016-09-28 19:31:12 - DEBUG - commonhelper - saveResultsOfTestcase - at line:  33  - commonhelper: Inside save_results_of_testcase() for testcase TC_004 
+2016-09-28 19:31:12 - INFO - commonhelper - saveResultsOfTestcase - at line:  63  - commonhelper: Saving Results of Test Case TC_004 in the File C:\Users\msoni1\workspace\Daft_Assessment\log\summaryresult-28-09-2016.log
+2016-09-28 19:31:12 - DEBUG - commonhelper - saveResultsOfTestcase - at line:  77  - commonhelper: Leaving save_results_of_testcase()
+2016-09-28 19:31:12 - DEBUG - commonhelper - saveResultsOfTestcase - at line:  78  - CommonHelp: Exit saveResultsOfTestcase
