@@ -1,0 +1,27 @@
+2016-09-28 19:31:18 - DEBUG - commonhelper - writeToLogFile - at line:  127  - CommonHelp: leaving writeToLogFile
+2016-09-28 19:31:18 - DEBUG - TC_005 - init - at line:  42  - TC_005: Inside init()
+2016-09-28 19:31:18 - DEBUG - commonhelper - __init__ - at line:  16  - CommonHelp: Inside __init__
+2016-09-28 19:31:18 - DEBUG - commonhelper - __init__ - at line:  17  - CommonHelp: Exit __init__
+2016-09-28 19:31:18 - DEBUG - apihelper - __init__ - at line:  11  - APIHelper: Inside init.
+2016-09-28 19:31:18 - DEBUG - apihelper - __init__ - at line:  20  - APIHelper: Leaving init.
+2016-09-28 19:31:18 - DEBUG - TC_005 - init - at line:  51  - TC_005: Leaving init()
+2016-09-28 19:31:18 - DEBUG - TC_005 - execute - at line:  56  - TC_005: Inside execute()
+2016-09-28 19:31:18 - DEBUG - apihelper - getResponseMsg - at line:  30  - APIHelper: Inside getResponseMsg.
+2016-09-28 19:31:18 - INFO - connectionpool - _new_conn - at line:  735  - Starting new HTTPS connection (1): www.googleapis.com
+2016-09-28 19:31:19 - DEBUG - connectionpool - _make_request - at line:  383  - "POST /geolocation/v1/geolocate?key=%20AIzaSyAKC3sgc1iixalipAnijFc6pL2CflpTg24 HTTP/1.1" 200 None
+2016-09-28 19:31:19 - DEBUG - apihelper - getResponseMsg - at line:  42  - APIHelper: Leaving getResponseMsg.
+2016-09-28 19:31:19 - DEBUG - TC_005 - execute - at line:  60  - Successfully get the response message
+2016-09-28 19:31:19 - DEBUG - TC_005 - execute - at line:  71  - TC_005: Leaving execute()
+2016-09-28 19:31:19 - DEBUG - TC_005 - verify - at line:  76  - TC_005: Inside verify()
+2016-09-28 19:31:19 - DEBUG - apihelper - validateResponse - at line:  60  - APIHelper: Inside validateResponse.
+2016-09-28 19:31:19 - DEBUG - apihelper - validateResponse - at line:  86  - Successfully matched both the response message
+2016-09-28 19:31:19 - DEBUG - TC_005 - verify - at line:  80  - Successfully matched the response message
+2016-09-28 19:31:19 - DEBUG - TC_005 - verify - at line:  91  - TC_005: Leaving verify()
+2016-09-28 19:31:19 - DEBUG - TC_005 - cleanup - at line:  95  - TC_005: Inside cleanup()
+2016-09-28 19:31:19 - DEBUG - TC_005 - cleanup - at line:  99  - TC_005: Leaving cleanup()
+2016-09-28 19:31:19 - INFO - TC_005 - <module> - at line:  130  - Result of testcase Removed 3 parameters(age,signalStrength,timingAdvance) from cellTowers: Passed
+2016-09-28 19:31:19 - DEBUG - commonhelper - saveResultsOfTestcase - at line:  28  - CommonHelp: Inside saveResultsOfTestcase
+2016-09-28 19:31:19 - DEBUG - commonhelper - saveResultsOfTestcase - at line:  33  - commonhelper: Inside save_results_of_testcase() for testcase TC_005 
+2016-09-28 19:31:19 - INFO - commonhelper - saveResultsOfTestcase - at line:  63  - commonhelper: Saving Results of Test Case TC_005 in the File C:\Users\msoni1\workspace\Daft_Assessment\log\summaryresult-28-09-2016.log
+2016-09-28 19:31:19 - DEBUG - commonhelper - saveResultsOfTestcase - at line:  77  - commonhelper: Leaving save_results_of_testcase()
+2016-09-28 19:31:19 - DEBUG - commonhelper - saveResultsOfTestcase - at line:  78  - CommonHelp: Exit saveResultsOfTestcase
